@@ -1,5 +1,4 @@
-# Welcome to GitHub Desktop!
+# Welcome to GitHub Desktop! Microagression Detection
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+![Concept__map](https://github.com/HarshithHullakereSiddegowda/desktop-tutorial/assets/100402681/be972e4f-f9b9-43b7-af94-b38d96b5d219)
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
